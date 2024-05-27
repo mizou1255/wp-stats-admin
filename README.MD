@@ -11,7 +11,7 @@ The WP Stats Admin plugin provides comprehensive statistics and analytics for yo
 
 ## Installation
 
-1. Download the plugin ZIP file from the [releases page](https://github.com/your-username/wp-stats-admin/releases).
+1. Download the plugin ZIP file from the [releases page](https://github.com/mizou1255/wp-stats-admin/releases).
 2. Upload the ZIP file to your WordPress site's plugins directory.
 3. Activate the plugin through the WordPress admin dashboard.
 
@@ -25,4 +25,4 @@ Contributions are welcome! If you find any bugs or have suggestions for new feat
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
