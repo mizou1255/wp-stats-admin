@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+
+# Local environment files
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Sources files
+src/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.cache/
+.history/
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+
+# Custom excludes
+package.json
+package-lock.json
+postcss.config.js
+tailwind.config.js
+vite.config.js
+zip-gen.js
+*.zip
